@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Deepika.E
 
 Master of Computer Science
-<img align="right" width="370" height="270" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw2IUyyeE49lw9yIu0BEHZG7&ust=1724865379934000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjrpPvWlYgDFQAAAAAdAAAAABAJ">
+<img align="right" width="370" height="270" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript , Python 
 - 💞️ I’m looking to collaborate on ...
