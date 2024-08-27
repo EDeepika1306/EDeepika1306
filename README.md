@@ -9,8 +9,8 @@ Master of Computer Science
 
 
 ## I Code In
- <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
- <img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/>
+
 
 <!---
 EDeepika1306/EDeepika1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
